@@ -7,14 +7,14 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Ayush07-cloud&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/Ayush07-cloud?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ayush07-cloud?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
   </a>
-  <a href="https://github.com/yourusername?tab=following">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/yourusername?label=Following&style=for-the-badge&color=green&logo=person-add" alt="following" />
+  <a href="https://github.com/Ayush07-cloud?tab=following">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Ayush07-cloud?label=Following&style=for-the-badge&color=green&logo=person-add" alt="following" />
   </a>
-  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" alt="stars" />
+  <img src="https://img.shields.io/github/stars/Ayush07-cloud?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" alt="stars" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ const ayush = {
 
 - 🔭 Currently working on **AI-Powered Learning Platforms**
 - 🌱 Learning **Advanced Deep Learning & Cloud Technologies**
-- 👨‍💻 All projects available at **[GitHub](https://github.com/yourusername)**
+- 👨‍💻 All projects available at **[GitHub](https://github.com/Ayush07-cloud)**
 - 💬 Ask me about **MERN Stack, Python, Machine Learning**
 - 📫 Reach me: **ayushkumar2710@gmail.com**
 - ⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
@@ -101,7 +101,7 @@ A full-featured food delivery platform with:
 - 💳 Stripe payment gateway
 - 👨‍💼 Admin dashboard
 
-**[View Project →](https://github.com/yourusername)**
+**[View Project →](https://github.com/Ayush07-cloud)**
 
 </td>
 <td width="50%">
@@ -155,13 +155,13 @@ Working on exciting new projects in:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush07-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush07-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush07-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush07-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
 </div>
 
 ---
@@ -210,8 +210,8 @@ goals_2025 = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-969553251/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush07-cloud)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkumar2710@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 
@@ -227,7 +227,7 @@ goals_2025 = {
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
