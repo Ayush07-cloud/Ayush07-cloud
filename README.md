@@ -8,17 +8,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
-
-<p align="center">
   <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyourusername&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
   </a>
   <a href="https://github.com/yourusername?tab=following">
-    <img src="https://img.shields.io/github/following/yourusername?label=Following&style=for-the-badge&color=green&logo=github" alt="GitHub Following"/>
+    <img src="https://custom-icon-badges.demolab.com/github/followers/yourusername?label=Following&style=for-the-badge&color=green&logo=person-add" alt="following" />
   </a>
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" alt="stars" />
 </p>
 
 ---
