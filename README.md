@@ -101,7 +101,7 @@ A full-featured food delivery platform with:
 - 💳 Stripe payment gateway
 - 👨‍💼 Admin dashboard
 
-**[View Project →](https://github.com/Ayush07-cloud)**
+**[View Project →](https://github.com/Ayush07-cloud/Food-Delivery-Project)**
 
 </td>
 <td width="50%">
