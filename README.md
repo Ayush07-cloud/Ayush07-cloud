@@ -225,19 +225,9 @@ goals_2025 = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush07-cloud&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
