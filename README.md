@@ -225,12 +225,6 @@ goals_2025 = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 <div align="center">
