@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ABEF9&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Deep+Learning+Expert+%F0%9F%92%BB;Computer+Vision+Explorer+%F0%9F%91%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ABEF9&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Computer+Vision+Explorer+%F0%9F%91%81%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -225,9 +225,19 @@ goals_2025 = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ayush07-cloud/Ayush07-cloud/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush07-cloud&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
 </div>
 
