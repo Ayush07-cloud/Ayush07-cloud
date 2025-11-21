@@ -106,16 +106,17 @@ A full-featured food delivery platform with:
 </td>
 <td width="50%">
 
-### 🤟 ASL to Text Converter
-**CNN | OpenCV | TensorFlow**
+### 😊 Emotion Recognition
+**React 19 | TypeScript | Vite**
 
-Real-time gesture recognition system:
-- 🎯 A-Z gesture detection
-- 🧠 Custom CNN model
-- 📹 Live camera integration
-- ✍️ Text conversion
+Real-time multi-modal emotion detection system:
+- 😀 Facial expression recognition
+- 🎤 Voice emotion analysis
+- 📹 Live webcam integration
+- 🧠 AI-powered inference
+- ⚡ Built with modern web stack     
 
-**[View Project →](https://github.com/yourusername)**
+**[View Project →]([https://github.com/yourusername](https://github.com/Ayush07-cloud/Emotion_Recognition))**
 
 </td>
 </tr>
