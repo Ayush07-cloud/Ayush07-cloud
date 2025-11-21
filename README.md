@@ -39,7 +39,7 @@ const ayush = {
 - 🌱 Learning **Advanced Deep Learning & Cloud Technologies**
 - 👨‍💻 All projects available at **[GitHub](https://github.com/Ayush07-cloud)**
 - 💬 Ask me about **MERN Stack, Python, Machine Learning**
-- 📫 Reach me: **ayushkumar2710@gmail.com**
+- 📫 Reach me: **kayushkumar2710@gmail.com**
 - ⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
 
 ---
