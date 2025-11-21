@@ -116,7 +116,7 @@ Real-time multi-modal emotion detection system:
 - 🧠 AI-powered inference
 - ⚡ Built with modern web stack     
 
-**[View Project →]([https://github.com/yourusername](https://github.com/Ayush07-cloud/Emotion_Recognition))**
+**[View Project →](https://github.com/Ayush07-cloud/Emotion_Recognition)**
 
 </td>
 </tr>
