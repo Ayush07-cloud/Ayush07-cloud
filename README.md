@@ -132,7 +132,7 @@ AI-powered learning platform featuring:
 - 🎮 Gamification (XP, badges)
 - 📚 10+ interactive courses
 
-**[View Project →](https://github.com/yourusername)**
+**[View Project →](https://github.com/Ayush07-cloud/Rootminders-AI-learning-Platform)**
 
 </td>
 <td width="50%">
