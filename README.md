@@ -143,7 +143,7 @@ Working on exciting new projects in:
 - 🤖 Advanced AI/ML
 - 📱 Mobile Development
 
-**Stay tuned!**
+**[See all projects →](https://github.com/Ayush07-cloud?tab=repositories)**
 
 </td>
 </tr>
